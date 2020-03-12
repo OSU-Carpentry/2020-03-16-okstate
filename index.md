@@ -61,8 +61,8 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-<p><a id="s_lc_event_5584425" href="https://okstate.libcal.com/calendar/events/2020-03-16-okstate">CLICK TO REGISTER</a>
-<!-- Below is optional element styling  //--></p>
+<!--<p><a id="s_lc_event_5584425" href="https://okstate.libcal.com/calendar/events/2020-03-16-okstate">CLICK TO REGISTER</a>
+<!-- Below is optional element styling  //--></p>-->
 <style>
 #s_lc_event_5584425 {
   background: #FF6600;
@@ -79,7 +79,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </style>
 
 
-<h2 id="general">General Information</h2>
+<h2 id="general">For the health and safety of our participants, we have canceled this workshop.</h2>
 
 {% comment %}
 INTRODUCTION
