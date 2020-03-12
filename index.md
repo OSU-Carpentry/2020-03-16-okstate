@@ -61,24 +61,6 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-<!--
-<p><a id="s_lc_event_5584425" href="https://okstate.libcal.com/calendar/events/2020-03-16-okstate">CLICK TO REGISTER</a>
-</p>
--->
-<style>
-#s_lc_event_5584425 {
-  background: #FF6600;
-  border: 1px solid #DFDFDF;
-  border-radius: 4px;
-  color: white;
-  font: 18px Arial, Helvetica, Verdana;
-  padding: 8px 20px;
-  cursor: pointer;
-}
-#s_lc_event_5584425:hover {
-  opacity: 0.9;
-}
-</style>
 
 
 <h2 id="general">For the health and safety of our participants, we have canceled this workshop.</h2>
